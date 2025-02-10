@@ -1,5 +1,3 @@
-const { TouchableNativeFeedbackBase } = require("react-native/types");
-
 //Declare and Use Variables
 let studentName = "Ryan Umoso";
 let studentAge = 21;
